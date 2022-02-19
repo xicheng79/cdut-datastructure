@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Cdut-DataStructure'
-copyright = '2021, JiuSan'
-author = 'JiuSan'
+copyright = '2022, zhangzhupeng'
+author = '张著鹏'
 
 # The full version, including alpha/beta/rc tags
 release = 'v1.0.0'
